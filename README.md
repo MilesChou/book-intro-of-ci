@@ -5,6 +5,8 @@ DevOps 說：開發、測試與維運應該互相合作，解決問題並完成�
 * [GitBook](https://www.gitbook.com/book/mileschou/intro-of-ci/details)
 * [GitHub](https://github.com/MilesChou/book-intro-of-ci)
 
+如對文章有任何建議，歡迎隨時提 issue 或直接發 PR 。修改的規範可以參考 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。
+
 > 此為第 8 屆 iT 邦幫忙鐵人賽 [DevOps 組][DevOps Team]參選作品之一。
 
 ## 前言
@@ -21,7 +23,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 
 選 CI 當主題是因為，我想在藥外面包一層糖衣，雖然說穿了還是在吃藥，但至少讓這些朋友們比較願意服用。服用完後，軟體品質不一定能馬上提高，但相信至少不會再爛下去了，接著維運佈署高品質軟體上線自然會更安心，也更有信心！
 
-最後，祝大家都能 **快快樂樂開發，平平安安上線。** 
+最後，祝大家都能 **快快樂樂開發，平平安安上線。**
 
 ## 目錄
 
