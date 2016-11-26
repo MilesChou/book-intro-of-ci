@@ -1,9 +1,11 @@
 # CI 從入門到入坑
 
-DevOps 說：開發、測試與維運應該互相合作，解決問題並完成任務。 CI 是開發與測試密切合作，並產出讓維運可快速佈署的高品質軟體。相信對開發者來說，沒有什麼能比「寫完程式立即看到成果」來的興奮的事了。讓我們來體驗 30 天的興奮，並一起入坑 CI 吧！
+DevOps 說：開發、測試與維運應該互相合作，解決問題並完成任務。 CI 的目標是：開發與測試密切合作，並產出讓維運可快速佈署的高品質軟體。對開發者來說 CI 也是個快速回饋機制，相信沒有什麼能比「寫完程式立即看到成果」來的興奮的事了。就讓我們來體驗 30 天的興奮，並一起入坑吧！
+
+這 30 天裡，我將會以開發者角度，並以第一人稱來說明 CI 是個什麼樣的概念，以及它幫助了我什麼，又幫助團隊什麼。
 
 * [GitBook](https://www.gitbook.com/book/mileschou/intro-of-ci/details)
-* [GitHub](https://github.com/MilesChou/book-intro-of-ci)
+* [GitHub](https://github.com/MilesChou/book-intro-of-ci) 
 
 如對文章有任何建議，歡迎隨時提 issue 或直接發 PR 。修改的規範可以參考 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。
 
