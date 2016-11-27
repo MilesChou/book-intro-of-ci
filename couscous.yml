@@ -1,0 +1,16 @@
+template:
+  url: https://github.com/CouscousPHP/Template-Light.git
+  index: README.md
+
+github:
+  user: MilesChou
+  repo: book-intro-of-ci
+
+exclude:
+  - vendor
+  - %gitignore%
+
+branch: gh-pages
+
+title: CI 從入門到入坑
+subTitle: DevOps 之 CI 篇
