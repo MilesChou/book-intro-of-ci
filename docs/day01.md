@@ -1,6 +1,8 @@
 # 什麼是 DevOps ？
 
-在開始聊 CI 前，先來聊聊主題 DevOps 。
+> 前言在 [GitHub](https://github.com/MilesChou/book-intro-of-ci) ，文章會同步更新。
+
+在開始聊 CI 前，先來談談 DevOps 。
 
 DevOps 簡而言之，就是 Development + Operations ，也就是開發與維運。但大部分的文章都會說是「開發」「測試」「維運」三者的結合。如同下面這張圖想表示的意義一樣，當三者有了交集，即是 DevOps
 
@@ -118,7 +120,6 @@ DevOps 的要領環環相扣，尤其關鍵都在「人」身上，也就是文�
 
 ## 相關連結
 
-* [前言](https://github.com/MilesChou/book-intro-of-ci)
 * [DevOps][Wiki DevOps] - Wiki
 * [為什麼會出現DevOps？][iThome DevOPs] - iThome
 * [什麼是 DevOps？](https://aws.amazon.com/tw/devops/what-is-devops/) - AWS
