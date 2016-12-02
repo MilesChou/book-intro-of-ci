@@ -31,7 +31,8 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 ## 目錄
 
 * Day 1 - [什麼是 DevOps ？](/docs/day01.md)
-* Loading ...
+* Day 2 - [還記得第一次寫程式嗎？](/docs/day02.md)
+* 努力載入資料中 ...
 
 ## 誌謝
 
