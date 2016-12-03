@@ -4,3 +4,4 @@
 * [Contribution](CONTRIBUTING.md)
 * [Day 1 - 什麼是 DevOps ？](/docs/day01.md)
 * [Day 2 - 還記得第一次寫程式嗎？](/docs/day02.md)
+* [Day 3 - Agile 與 CI 之間的火花](/docs/day03.md)

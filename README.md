@@ -32,11 +32,13 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 
 * Day 1 - [什麼是 DevOps ？](/docs/day01.md)
 * Day 2 - [還記得第一次寫程式嗎？](/docs/day02.md)
-* 努力載入資料中 ...
+* Day 3 - [Agile 與 CI 之間的火花](/docs/day03.md)
+* 絞盡腦汁中 ...
 
 ## 誌謝
 
 * 推坑的 [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/) 好友們
+* 一起鐵腿的同伴 @chusiang 作品：[現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://github.com/chusiang/automate-with-ansible) 
 
-[DevOps Team]: http://ithelp.ithome.com.tw/ironman/signup/list?group=devops
+[DevOps Team]: http://ithelp.ithome.com.tw/ironman/devops
 [Waterfall]: https://en.wikipedia.org/wiki/Waterfall_model

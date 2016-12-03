@@ -110,14 +110,13 @@ Bug 大家都很怕，而相信大家也都知道，最好的對策就是「早�
 * 對 bug 最好的對策就是：早期發現，早期治療！
 * CI 精神正是 bug 的剋星！
 
-上一篇：[什麼是 DevOps ？][Day 1]
-下一篇： Agile 與 CI 之間的火花
+下一篇： [Agile 與 CI 之間的火花][Day 3]
 
 ## 相關連結
 
 * [Continuous Integration][]
 
-[Day 1]: /docs/day01.md
+[Day 3]: /docs/day03.md
 [Continuous Integration]: https://en.wikipedia.org/wiki/Continuous_integration
 [Legacy code]: https://en.wikipedia.org/wiki/Legacy_code
 [PHP]: http://php.net/
