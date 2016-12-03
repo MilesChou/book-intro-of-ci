@@ -114,7 +114,7 @@ Bug 大家都很怕，而相信大家也都知道，最好的對策就是「早�
 
 ## 相關連結
 
-* [Continuous Integration][]
+* [Continuous Integration][] | 維基百科
 
 [Day 3]: /docs/day03.md
 [Continuous Integration]: https://en.wikipedia.org/wiki/Continuous_integration
