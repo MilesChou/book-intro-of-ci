@@ -71,7 +71,7 @@ Scrum 有許多回饋機制，不僅提高透明度，也讓團隊更容易因�
 
 這三天都在聊 [DevOps][Day 1] 、 [CI][Day 2] 、 Agile 的基本概念，如同灌籃高手的赤木所說：「基礎是非常重要的」。後面談的實務做法，不單只是因為「這麼做比較好」，更是因為「這樣做可以減少某些不必要的錯誤，所以才這麼做」，而為何能減少錯誤？原因都在前幾天的基本概念裡了！
 
-下一篇：**先求有，再求好？**
+下一篇：[先求有，再求好？][Day 4]
 
 ## 相關連結
 
@@ -86,6 +86,7 @@ Scrum 有許多回饋機制，不僅提高透明度，也讓團隊更容易因�
 
 [Day 1]: /docs/day01.md
 [Day 2]: /docs/day02.md
+[Day 4]: /docs/day04.md
 [Code Review]: https://en.wikipedia.org/wiki/Code_review
 [Pair Programming]: https://en.wikipedia.org/wiki/Pair_programming
 [Pull Request]: https://help.github.com/articles/about-pull-requests/
