@@ -60,10 +60,11 @@ Agile 有些方法也是確保交付的產品是正確的，如：
 * Agile 也有很多方法在討論如何「先要對」！
 * 非開發人員也要有 CI 的觀念：持續跟開發人員同步資訊！
 
-下一篇：**簡單的好習慣，是 CI 的一大步**
+下一篇：[簡單的好習慣，是 CI 的一大步][Day 5]
 
 ## 相關連結
 
+[Day 5]: /docs/day05.md
 [TDD]: https://en.wikipedia.org/wiki/Test-driven_development
 [BDD]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [ATDD]: https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development
