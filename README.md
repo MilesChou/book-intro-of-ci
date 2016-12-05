@@ -41,6 +41,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 
 * 推坑的 [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/) 好友們
 * 一起鐵腿的同伴 @chusiang 作品：[現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://github.com/chusiang/automate-with-ansible) 
+* 在身邊支持我的 @kaihanch
 
 [DevOps Team]: http://ithelp.ithome.com.tw/ironman/devops
 [Waterfall]: https://en.wikipedia.org/wiki/Waterfall_model
