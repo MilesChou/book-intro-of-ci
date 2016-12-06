@@ -7,3 +7,4 @@
 * [Day 3 - Agile 與 CI 之間的火花](/docs/day03.md)
 * [Day 4 - 先求有，再求好？](/docs/day04.md)
 * [Day 5 - 簡單的好習慣，是 CI 的一大步](/docs/day05.md)
+* [Day 6 - CI 起步走](/docs/day06.md)

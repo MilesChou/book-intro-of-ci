@@ -116,7 +116,7 @@ var_dump($val);
 
 當然，驗證不能只是說說，團隊必須要決定驗證什麼樣內容，才有辦法做持續驗證，因此：
 
-下一篇： **CI 起頭難**
+下一篇： [CI 起步走][Day 6]
 
 ## 相關連結
 
@@ -126,6 +126,7 @@ var_dump($val);
 
 [Day 2]: /docs/day02.md
 [Day 4]: /docs/day04.md
+[Day 6]: /docs/day06.md
 [GitHub]: https://github.com/
 [GitBook]: https://www.gitbook.com/
 [Version Control System]: https://en.wikipedia.org/wiki/Version_control
