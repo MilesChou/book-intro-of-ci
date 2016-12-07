@@ -107,6 +107,7 @@ Compiler 看得懂文章且譯文電腦執行也符合規格，但這並不代�
 [Day 2]: /docs/day02.md
 [Day 4]: /docs/day04.md
 [Day 5]: /docs/day05.md
+[Day 7]: /docs/day07.md
 [CoffeeScript]: http://coffeescript.org/
 [Rust]: https://www.rust-lang.org/
 [莫非定律]: https://zh.wikipedia.org/wiki/%E6%91%A9%E8%8F%B2%E5%AE%9A%E7%90%86

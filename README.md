@@ -36,7 +36,8 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * [Day 4 - 先求有，再求好？](/docs/day04.md)
 * [Day 5 - 簡單的好習慣，是 CI 的一大步](/docs/day05.md)
 * [Day 6 - CI 起步走](/docs/day06.md)
-* 絞盡腦汁中 ...
+* [Day 7 - 單元測試](/docs/day07.md)
+* 拖稿中 ...
 
 ## 誌謝
 
