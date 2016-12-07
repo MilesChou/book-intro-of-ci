@@ -98,9 +98,9 @@ Compiler 看得懂文章且譯文電腦執行也符合規格，但這並不代�
 * Build 包含了 Compilation 、 Testing 、 Inspection 、 Deployment 等等，每個階段都有它驗證的目標。
 * 不管哪個階段都可以馬上開始做。持續做，持續改善，就能確保驗證的目標有一定品質。
 
-明天會先討論 Testing 該如何開始做：
+因為 Testing 跟業務功能與價值直接相關，也比較好理解。所以我們明天會先從如何寫 Testing 程式開始：
 
-下一篇：**單元測試**
+下一篇： [Hello Testing][Day 7]
 
 ## 相關連結
 
