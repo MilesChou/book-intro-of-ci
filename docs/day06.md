@@ -4,7 +4,7 @@
 
 事前先說明一下，之所以會用驗證這個名詞，主要是不想與其他專業用語重複，如「測試」，怕讓還沒完全了解的朋友們會有先入為主的想法。
 
-> 之後會參考 [Continuous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380) 這本書所採用的關鍵字做解說。
+> 之後會參考 [Continuous Integration][] 這本書所採用的關鍵字做解說。
 
 ## 什麼是 Build ？
 
@@ -13,7 +13,7 @@
 > A build is much more than a compile. A build may consist of the compilation, testing, inspection, and deployment—among other things.  
 > — Continuous Integration
 
-Build 不只是 compile ，它包含 [Compilation](#Compilation) 、 [Testing](#Testing) 、 [Inspection](#Inspection) 、 [Deployment](#Deployment) ，等等。
+Build 不只是 compile ，它包含 [Compilation](#compilation) 、 [Testing](#testing) 、 [Inspection](#inspection) 、 [Deployment](#deployment) ，等等。
 
 ### Compilation
 
@@ -87,7 +87,7 @@ Compiler 看得懂文章且譯文電腦執行也符合規格，但這並不代�
 
 [昨天][Day 5]提到的是一些好習慣，了解概念就會知道這些本來都該做，只是 CI 提倡要常常做。而上面幾個項目相信大家一直都有在做，但不一定很重視。今天是要提醒大家，這幾個項目都是 CI 的一部分，如果持續關注這些項目的執行結果，並持續改善修正，也算是開始 CI 了！
 
-個人是建議：總之，就開始做吧！無論是要從 [Compilation](#Compilation) 開始，或是柿子挑軟的吃，先從 [Inspection](#Inspection) 只要有原始碼就能做的開始，都可以。
+個人是建議：總之，就開始做吧！無論是要從 [Compilation](#compilation) 開始，或是柿子挑軟的吃，先從 [Inspection](#inspection) 只要有原始碼就能做的開始，都可以。
 
 [先要對，才會有，再求好][Day 4]
 
@@ -104,10 +104,13 @@ Compiler 看得懂文章且譯文電腦執行也符合規格，但這並不代�
 
 ## 相關連結
 
+* [Continuous Integration][]
+* [莫非定律][]
+
 [Day 2]: /docs/day02.md
 [Day 4]: /docs/day04.md
 [Day 5]: /docs/day05.md
 [Day 7]: /docs/day07.md
 [CoffeeScript]: http://coffeescript.org/
-[Rust]: https://www.rust-lang.org/
+[Continuous Integration]: https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380
 [莫非定律]: https://zh.wikipedia.org/wiki/%E6%91%A9%E8%8F%B2%E5%AE%9A%E7%90%86
