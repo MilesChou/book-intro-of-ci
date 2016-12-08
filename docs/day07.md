@@ -138,7 +138,7 @@ class Number
 {
     private $number;
 
-    public function __constructor($number)
+    public function __construct($number)
     {
         $this->number = $number;
     }
