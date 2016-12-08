@@ -285,10 +285,11 @@ if ($actual === $exceptedSub) {
 
 測試程式知道該如何寫了，可是照上面的說法做的話，不就到處都有檔案嗎？到底該如何管理呢？因此，明天該是我們發揮美德的時候了！
 
-下一篇：**懶惰是工程師的美德**
+下一篇：[讓我們繼續懶下去][]
 
 ## 相關連結
 
 * [動手寫 Unit Test][] | In 91 30天快速上手TDD
 
+[讓我們繼續懶下去]: /docs/day07.md
 [動手寫 Unit Test]: https://dotblogs.com.tw/hatelove/2012/11/07/learning-tdd-in-30-days-day3-how-to-write-a-unit-test-code

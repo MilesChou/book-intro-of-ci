@@ -9,3 +9,4 @@
 * [Day 5 - 簡單的好習慣，是 CI 的一大步](/docs/day05.md)
 * [Day 6 - CI 起步走](/docs/day06.md)
 * [Day 7 - 單元測試](/docs/day07.md)
+* [Day 8 - 讓我們繼續懶下去](/docs/day08.md)
