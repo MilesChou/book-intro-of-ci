@@ -1,5 +1,10 @@
 {
-    "require": {
-        "couscous/couscous": "^1.5"
+    "require-dev": {
+        "codeception/codeception": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src"
+        }
     }
 }
