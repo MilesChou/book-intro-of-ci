@@ -66,6 +66,8 @@ class SumTest extends \Codeception\Test\Unit
 
 ![Class Run][]
 
+範例程式連結： [GitHub](https://github.com/MilesChou/book-intro-of-ci/tree/47e7a0c51aea664e714f5c4b7c368f22e7644b8e)
+
 ## 今日回顧
 
 單元測試完整，不代表整合會正常，仍需要整合測試來確保。有一個很好的反例，跟大家分享：
