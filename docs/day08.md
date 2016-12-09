@@ -125,7 +125,7 @@ class NumberTest extends \Codeception\Test\Unit
 }
 ```
 
-`$this->assertTrue($actual)` 講白話一點指的是：我假設 `$actual` 這個變數的內容會是 true ，不是的話請跟我說，我的假設錯了。以這個例子，這個假設是永遠正確的。我們來看執行結果：
+`$this->assertTrue($actual)` 講白話一點指的是：假設 `$actual` 這個變數的內容是 true ，若是 false 的話，假設就錯了。以這個例子，這個假設是永遠正確的。我們來看執行結果：
 
 ![](/images/day08-codeception-second-run.png)
 
