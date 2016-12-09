@@ -10,3 +10,4 @@
 * [Day 6 - CI 起步走](/docs/day06.md)
 * [Day 7 - Hello Testing](/docs/day07.md)
 * [Day 8 - 讓我們繼續懶下去](/docs/day08.md)
+* [Day 9 - 爭什麼！摻在一起做整合測試啊！](/docs/day09.md)
