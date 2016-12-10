@@ -18,7 +18,8 @@ class NumberTest extends \Codeception\Test\Unit
     public function testShouldGet1WhenConstructArgIs1()
     {
         // Arrange
-        $target = new \HelloWorld\Number(1);
+        $pdoMock = \Codeception\Util\Stub::make('PDO');
+        $target = new \HelloWorld\Number(1, $pdoMock);
         $excepted = 1;
 
         // Act

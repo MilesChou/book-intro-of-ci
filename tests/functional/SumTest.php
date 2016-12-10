@@ -20,15 +20,16 @@ class SumTest extends \Codeception\Test\Unit
     {
         // Arrange
         $target = new \HelloWorld\Sum();
+        $pdoMock = \Codeception\Util\Stub::make('PDO');
         $numbers = [
-            new \HelloWorld\Number(1),
-            new \HelloWorld\Number(2),
-            new \HelloWorld\Number(3),
+            new \HelloWorld\Number(1, $pdoMock),
+            new \HelloWorld\Number(2, $pdoMock),
+            new \HelloWorld\Number(3, $pdoMock),
         ];
         $excepted = 6;
 
         // Act
-        $actual = $target->sum($numbers)->get();
+        $actual = $target->sum($numbers, $pdoMock)->get();
 
         // Assert
         $this->assertEquals($excepted, $actual);

@@ -2,13 +2,17 @@
 
 namespace HelloWorld;
 
+use PDO;
+
 class Number
 {
     private $number;
+    private $pdo;
 
-    public function __construct($number)
+    public function __construct($number, PDO $pdo)
     {
         $this->number = $number;
+        $this->pdo = $pdo;
     }
 
     public function add($addend)
@@ -24,5 +28,20 @@ class Number
     public function get()
     {
         return $this->number;
+    }
+
+    public function mux()
+    {
+        // Not implement;
+    }
+
+    public function save()
+    {
+        // Use PDO
+    }
+
+    public function load()
+    {
+        // Use PDO
     }
 }
