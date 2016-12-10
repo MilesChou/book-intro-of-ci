@@ -11,3 +11,4 @@
 * [Day 7 - Hello Testing](/docs/day07.md)
 * [Day 8 - 讓我們繼續懶下去](/docs/day08.md)
 * [Day 9 - 爭什麼！摻在一起做整合測試啊！](/docs/day09.md)
+* [Day 10 - 假的！耦合業障重呀！（ 1/2 ）](/docs/day10.md)
