@@ -14,3 +14,4 @@
 * [Day 10 - 假的！耦合業障重呀！（ 1/2 ）](/docs/day10.md)
 * [Day 11 - 假的！耦合業障重呀！（ 2/2 ）](/docs/day11.md)
 * [Day 12 - 測試範圍](/docs/day12.md)
+* [Day 13 - 開發如何考慮維運](/docs/day13.md)
