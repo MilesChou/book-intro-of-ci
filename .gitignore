@@ -30,5 +30,5 @@ nbproject/*
 # Composer files
 vendor
 
-# Couscous files
-.couscous
+# Vagrant files
+.vagrant
