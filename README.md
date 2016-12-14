@@ -43,6 +43,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * [Day 11 - 假的！耦合業障重呀！（ 2/2 ）](/docs/day11.md)
 * [Day 12 - 測試範圍](/docs/day12.md)
 * [Day 13 - 開發如何考慮維運](/docs/day13.md)
+* [Day 14 - 到處流浪的伺服器](/docs/day14.md)
 * 拖稿中 ...
 
 ## 誌謝
