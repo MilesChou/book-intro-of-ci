@@ -104,13 +104,14 @@ Compiler 看得懂文章且譯文電腦執行也符合規格，但這並不代�
 
 ## 相關連結
 
-* [Continuous Integration][]
-* [莫非定律][]
+* [Continuous Integration][] | Amazon.com
+* [莫非定律][] | 維基百科
+
+[CoffeeScript]: http://coffeescript.org/
+[Continuous Integration]: https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380
+[莫非定律]: https://zh.wikipedia.org/wiki/%E6%91%A9%E8%8F%B2%E5%AE%9A%E7%90%86
 
 [Day 2]: /docs/day02.md
 [Day 4]: /docs/day04.md
 [Day 5]: /docs/day05.md
 [Day 7]: /docs/day07.md
-[CoffeeScript]: http://coffeescript.org/
-[Continuous Integration]: https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380
-[莫非定律]: https://zh.wikipedia.org/wiki/%E6%91%A9%E8%8F%B2%E5%AE%9A%E7%90%86

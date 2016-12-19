@@ -109,9 +109,9 @@ $ docker run -it --rm -v $PWD:/usr/src/app -w /usr/src/app mygulp gulp
 * [Docker Build](https://docs.google.com/presentation/d/1OrcP6FKFpLwmzPhmFH8-O9SHJEyu-_K69tPw2gqqsHs/pub?start=false) | Miles
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/) | Dockerfile 官方文件
 
-[Day 5]: /docs/day05.md
-
 [Gulp]: http://gulpjs.com/
 [Docker Hub]: https://hub.docker.com/
 [Docker Hub Node]: https://hub.docker.com/_/node/
 [Docker Compose]: https://docs.docker.com/compose/
+
+[Day 5]: /docs/day05.md

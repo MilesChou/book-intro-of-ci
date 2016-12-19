@@ -253,13 +253,13 @@ Codeception 可以整合的功能很多，不過今天就先把單元測試寫�
 
 ## 相關連結
 
-[Day 7]: /docs/day07.md
-[First Run]: /images/day08-codeception-first-run.png
-[Second Run]: /images/day08-codeception-second-run.png
-[Final Run]: /images/day08-codeception-final-run.png
-
 [Codeception]: http://codeception.com/
 [PHPUnit]: https://phpunit.de/
 [Composer]: https://getcomposer.org/
 [Git]: https://git-scm.com/
 [Sample Code]: https://github.com/MilesChou/book-intro-of-ci/tree/eaab947de9dc1b210d31c0bc64560fbd1060c7a2
+
+[Day 7]: /docs/day07.md
+[First Run]: /images/day08-codeception-first-run.png
+[Second Run]: /images/day08-codeception-second-run.png
+[Final Run]: /images/day08-codeception-final-run.png

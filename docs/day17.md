@@ -118,7 +118,7 @@ Docker Compose 主要是方便處理容器的管理，但本質上依然是執�
 
 ## 相關連結
 
-[Day 15]: /docs/day15.md
-
 [Docker Compose]: https://docs.docker.com/compose/
 [Docker Compose Release]: https://github.com/docker/compose/releases
+
+[Day 15]: /docs/day15.md

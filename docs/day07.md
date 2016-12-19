@@ -291,5 +291,6 @@ if ($actual === $exceptedSub) {
 
 * [動手寫 Unit Test][] | In 91 30天快速上手TDD
 
-[讓我們繼續懶下去]: /docs/day07.md
 [動手寫 Unit Test]: https://dotblogs.com.tw/hatelove/2012/11/07/learning-tdd-in-30-days-day3-how-to-write-a-unit-test-code
+
+[讓我們繼續懶下去]: /docs/day07.md

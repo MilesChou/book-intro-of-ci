@@ -64,7 +64,7 @@ var_dump($val);
 
 那什麼時候該記錄驗證結果呢？其實答案也是呼之欲出：當提交程式碼到版控系統時，就能記錄了。版控系統的提交資訊也可以結合驗證結果的資訊，並分享給團隊成員，讓大家可以避免拿到驗證失敗的程式碼，同時也能取得足夠的資訊繼續開發。目前常見的 SaaS 版控系統都有做這一類的服務，如下圖是 [GitHub][] + [GitBook][] 的範例。
 
-![](/images/day05-github.png)
+![GitHub Commit Result][]
 
 ## 正確才能提交
 
@@ -124,9 +124,6 @@ var_dump($val);
 * [破窗效應][] | 維基百科
 * [開發人員應遵循的七項持續整合要領][] | Teddy 搞笑談軟工
 
-[Day 2]: /docs/day02.md
-[Day 4]: /docs/day04.md
-[Day 6]: /docs/day06.md
 [GitHub]: https://github.com/
 [GitBook]: https://www.gitbook.com/
 [Version Control System]: https://en.wikipedia.org/wiki/Version_control
@@ -135,3 +132,8 @@ var_dump($val);
 [Mercurial]: https://www.mercurial-scm.org/
 [破窗效應]: https://zh.wikipedia.org/wiki/%E7%A0%B4%E7%AA%97%E6%95%88%E5%BA%94
 [開發人員應遵循的七項持續整合要領]: http://teddy-chen-tw.blogspot.tw/2012/07/blog-post.html
+
+[Day 2]: /docs/day02.md
+[Day 4]: /docs/day04.md
+[Day 6]: /docs/day06.md
+[GitHub Commit Result]: /images/day05-github.png

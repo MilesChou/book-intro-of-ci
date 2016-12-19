@@ -141,8 +141,8 @@ Anyway ，寫整合測試或使用 Test Double 都可以提早發現耦合過多
 
 * [Test Double（1）：什麼是測試替身？][] | 搞笑談軟工
 
+[Test Double（1）：什麼是測試替身？]: http://teddy-chen-tw.blogspot.tw/2014/09/test-double1.html
+
 [Day 9]: /docs/day09.md
 [Day 10]: /docs/day10.md
 [Sample Code]: https://github.com/MilesChou/book-intro-of-ci/tree/ebea3dab7bd260fa601b94b533ca08bd0496a536
-
-[Test Double（1）：什麼是測試替身？]: http://teddy-chen-tw.blogspot.tw/2014/09/test-double1.html

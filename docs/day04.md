@@ -64,9 +64,10 @@ Agile 有些方法也是確保交付的產品是正確的，如：
 
 ## 相關連結
 
-[Day 5]: /docs/day05.md
 [TDD]: https://en.wikipedia.org/wiki/Test-driven_development
 [BDD]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [ATDD]: https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development
 [DoD]: https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)
 [MVP]: https://en.wikipedia.org/wiki/Minimum_viable_product
+
+[Day 5]: /docs/day05.md

@@ -126,9 +126,10 @@ DevOps 的要領環環相扣，尤其關鍵都在「人」身上，也就是文�
 * [什麼是 DevOps？](http://blog.chengweichen.com/2015/08/devops-taiwan-meetup-devops-ithome.html) | Chen Cheng-Wei
 * [一句話囊括 DevOps 的目標][] | William Yeh
 
-[Day 2]: /docs/day02.md
 [Wiki DevOps]: https://zh.wikipedia.org/zh-tw/DevOps
 [iThome DevOPs]: http://www.ithome.com.tw/news/96861
 [Docker]: https://www.docker.com/
 [Vagrant Box]: https://www.vagrantup.com/docs/boxes.html
 [一句話囊括 DevOps 的目標]: http://school.soft-arch.net/blog/79569/devops-goals-in-a-nutshell
+
+[Day 2]: /docs/day02.md

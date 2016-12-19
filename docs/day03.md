@@ -84,9 +84,6 @@ Scrum 有許多回饋機制，不僅提高透明度，也讓團隊更容易因�
 * [Kanban][] | 維基百科
 * [你們 code review 了嗎？](http://kf013099.blogspot.tw/2014/08/code-review.html) | 阿官新創日誌
 
-[Day 1]: /docs/day01.md
-[Day 2]: /docs/day02.md
-[Day 4]: /docs/day04.md
 [Code Review]: https://en.wikipedia.org/wiki/Code_review
 [Pair Programming]: https://en.wikipedia.org/wiki/Pair_programming
 [Pull Request]: https://help.github.com/articles/about-pull-requests/
@@ -97,3 +94,7 @@ Scrum 有許多回饋機制，不僅提高透明度，也讓團隊更容易因�
 [GitHub]: https://github.com/
 [GitLab]: https://gitlab.com/
 [Bitbucket]: https://bitbucket.org/
+
+[Day 1]: /docs/day01.md
+[Day 2]: /docs/day02.md
+[Day 4]: /docs/day04.md

@@ -243,7 +243,8 @@ service mysql restart
 * [[Day 02] Vagrant 介紹](http://ithelp.ithome.com.tw/articles/10184824) | 30 天入門 Ansible 及 Jenkins-CI
 * [[Day 03] Vagrant 基本設定](http://ithelp.ithome.com.tw/articles/10184915) | 30 天入門 Ansible 及 Jenkins-CI
 
-[Day 13]: /docs/day13.md
 [VirtualBox]: https://www.virtualbox.org/
 [Vagrant]: https://www.vagrantup.com/
 [Docker]: https://www.docker.com/
+
+[Day 13]: /docs/day13.md

@@ -116,8 +116,9 @@ Bug 大家都很怕，而相信大家也都知道，最好的對策就是「早�
 
 * [Continuous Integration][] | 維基百科
 
-[Day 3]: /docs/day03.md
 [Continuous Integration]: https://en.wikipedia.org/wiki/Continuous_integration
 [Legacy code]: https://en.wikipedia.org/wiki/Legacy_code
 [PHP]: http://php.net/
 [WAMP]: http://www.wampserver.com/en/
+
+[Day 3]: /docs/day03.md

@@ -233,10 +233,11 @@ class SquareTest extends \Codeception\Test\Unit
 * [Test Double（1）：什麼是測試替身？][] | 搞笑談軟工
 * [只有一位開發人員的專案也需要了解如何消除七種浪費][] | 搞笑談軟工
 
+
+[Test Double（1）：什麼是測試替身？]: http://teddy-chen-tw.blogspot.tw/2014/09/test-double1.html
+[只有一位開發人員的專案也需要了解如何消除七種浪費]: http://teddy-chen-tw.blogspot.tw/2012/10/blog-post_30.html
+
 [Day 1]: /docs/day01.md
 [Day 5]: /docs/day05.md
 [Day 9]: /docs/day09.md
 [Sample Code]: https://github.com/MilesChou/book-intro-of-ci/tree/82245f693cea79619f708ed035115aeb54330807
-
-[Test Double（1）：什麼是測試替身？]: http://teddy-chen-tw.blogspot.tw/2014/09/test-double1.html
-[只有一位開發人員的專案也需要了解如何消除七種浪費]: http://teddy-chen-tw.blogspot.tw/2012/10/blog-post_30.html
