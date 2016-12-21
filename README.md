@@ -50,6 +50,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * [Day 18 - 流浪漢與碼頭工人的應用](/docs/day18.md)
 * [Day 19 - Inspection](/docs/day19.md)
 * [Day 20 - Build Script](/docs/day20.md)
+* [Day 21 - Pipeline](/docs/day21.md)
 * 拖稿中 ...
 
 ## 誌謝
