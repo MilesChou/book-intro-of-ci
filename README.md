@@ -51,6 +51,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * [Day 19 - Inspection](/docs/day19.md)
 * [Day 20 - Build Script](/docs/day20.md)
 * [Day 21 - Pipeline](/docs/day21.md)
+* [Day 22 - CI 工具大亂鬥](/docs/day22.md)
 * 拖稿中 ...
 
 ## 誌謝
