@@ -1,0 +1,17 @@
+# Vagrant files
+.vagrant
+
+# Git files
+.git
+
+# Docker files
+.dockerignore
+docker-compose.yml
+Dockerfile
+Dockerfile.dapper
+
+# Node files
+node_modules
+
+# Composer files
+vendor

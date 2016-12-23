@@ -28,7 +28,10 @@ nbproject/*
 .settings
 
 # Composer files
-vendor
+/vendor
+
+# Node files
+/node_modules
 
 # Vagrant files
 .vagrant
