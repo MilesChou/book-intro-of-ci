@@ -1,0 +1,18 @@
+language: php
+
+php:
+  - 7.0
+
+before_script:
+  - composer install
+
+script:
+  - php vendor/bin/codecept run
+
+cache:
+  directories:
+    - vendor
+
+branches:
+  only:
+    - release
