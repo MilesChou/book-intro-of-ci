@@ -1,0 +1,18 @@
+machine:
+  php:
+    version: 7.0.7
+
+dependencies:
+  cache_directories:
+    - vendor
+  override:
+    - composer install
+
+test:
+  override:
+    - php vendor/bin/codecept run
+
+general:
+  branches:
+    only:
+      - release
