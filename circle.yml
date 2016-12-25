@@ -1,16 +1,22 @@
 machine:
   php:
     version: 7.0.7
+  node:
+    version: v6.1.0
 
 dependencies:
   cache_directories:
-    - vendor
+    - "node_modules"
+    - "vendor"
   override:
+    - npm install
     - composer install
 
 test:
   override:
-    - php vendor/bin/codecept run
+    - php vendor/bin/codecept run --skip acceptance --coverage-html
+  post:
+    - mv tests/_output $CIRCLE_ARTIFACTS/output
 
 general:
   branches:

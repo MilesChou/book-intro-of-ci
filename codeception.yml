@@ -19,3 +19,9 @@ modules:
             user: ''
             password: ''
             dump: tests/_data/dump.sql
+coverage:
+    enabled: true
+    remote: false
+    whitelist:
+        include:
+            - src/*
