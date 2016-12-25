@@ -13,6 +13,9 @@ dependencies:
     - composer install
 
 test:
+  pre:
+    - php -S 0.0.0.0:8080:
+        background: true
   override:
     - php vendor/bin/codecept run --skip acceptance --coverage-html
   post:
