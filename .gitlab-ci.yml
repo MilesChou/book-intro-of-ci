@@ -1,0 +1,48 @@
+image: mileschou/php-testing-base:7.0
+stages:
+  - build
+  - test
+  - deploy
+build:5.6:
+  stage: build
+  image: mileschou/php-testing-base:5.6
+  script:
+    - composer install
+  cache:
+    untracked: true
+  artifacts:
+    paths:
+      - vendor/
+build:7.0:
+  stage: build
+  image: mileschou/php-testing-base:7.0
+  script:
+    - composer install
+  cache:
+    untracked: true
+  artifacts:
+    paths:
+      - vendor/
+test:5.6:
+  stage: test
+  image: mileschou/php-testing-base:5.6
+  script:
+    - php vendor/bin/codecept run
+  dependencies:
+    - build:5.6
+test:7.0:
+  stage: test
+  image: mileschou/php-testing-base:7.0
+  script:
+    - php vendor/bin/codecept run
+  dependencies:
+    - build:7.0
+deploy_job:
+  stage: deploy
+  script:
+    - echo Deploy OK
+  dependencies:
+    - build:7.0
+  only:
+    - release
+  when: manual
