@@ -28,3 +28,4 @@
 * [Day 24 - 開源專案的好選擇 －－ Travis CI](/docs/day24.md)
 * [Day 25 - 不公開專案的好選擇 －－ Circle CI](/docs/day25.md)
 * [Day 26 - 功能強大的 －－ GitLab CI](/docs/day26.md)
+* [Day 27 - 多樣服務整合 －－ Pipelines](/docs/day27.md)
