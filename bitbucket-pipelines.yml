@@ -1,0 +1,16 @@
+image: mileschou/php-testing-base:7.0
+
+pipelines:
+  default:
+    - step:
+        script:
+          - composer install
+          - php vendor/bin/codecept run
+
+  branches:
+    release:
+      - step:
+          script:
+            - composer install
+            - php vendor/bin/codecept run
+            - echo Release!!
