@@ -57,6 +57,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * [Day 25 - 不公開專案的好選擇 －－ Circle CI](/docs/day25.md)
 * [Day 26 - 功能強大的 －－ GitLab CI](/docs/day26.md)
 * [Day 27 - 多樣服務整合 －－ Pipelines](/docs/day27.md)
+* [Day 28 - Legacy Code 接 CI Server](/docs/day28.md)
 * 拖稿中 ...
 
 ## 誌謝
