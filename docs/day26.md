@@ -158,7 +158,7 @@ deploy_job:
 ```
 
 * `only` 代表這個 job 只在 release branch 執行
-* `when` 代表何時會執行，此例是指要手動觸發 job ，那預設會是
+* `when` 代表何時會執行，此例是指要手動觸發 job
 
 ### 使用 Docker
 
