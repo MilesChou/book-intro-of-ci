@@ -15,6 +15,8 @@
 
 Build 不只是 compile ，它包含 [Compilation](#compilation) 、 [Testing](#testing) 、 [Inspection](#inspection) 、 [Deployment](#deployment) ，等等。
 
+**注意**：通常 build 會被認為只是 compile ，但 CI 這本書的作者認為 Build 不只有 compile ，還包括 test 、 inspect 和 deploy ，之後的文章也會儘量採用 CI 這本書所定義的 Build 。
+
 ### Compilation
 
 程式語言也是一種「語言」，它也有屬於自己的文法和描述。而 *Compilation* 最原始的定義，是把原始碼翻譯成機器碼，如 C 的原始碼可以翻譯成機器碼，即可執行。 
@@ -92,6 +94,8 @@ Compiler 看得懂文章且譯文電腦執行也符合規格，但這並不代�
 [先要對，才會有，再求好][Day 4]
 
 只要確定手上在做的事，有驗證到任何一個小環節，這樣就對了！持續執行下去，接著再持續改善，這樣就會越來越好了！
+
+---
 
 ## 今日回顧
 
