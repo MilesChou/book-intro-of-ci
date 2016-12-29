@@ -2,7 +2,7 @@
 
 [GitLab][] 本身功能非常豐富，加上它又是開源可以自行架設的，通常會是企業選擇版控的首選。後來又追加 [GitLab CI][] 與 [Pipeline][GitLab Pipeline] 功能，讓它的戰場跨越到 CI ，並成為一個企業內部管理開發流程的好選擇。
 
-對版控系統來說， CI Server 是一個會執行 Build ，並跟通知版控說該提交是否成功的另一個系統。那 GitLab CI 的概念也一樣，它是另外獨立且可選的元件。打個比方， [Bitbucket][] 之於 [Circle CI][Day 25] ，就類似 GitLab 之於 GitLab CI 一樣。
+CI Server 跟版控通常會是不一樣的 server ， CI 會執行 Build ，並通知版控說，目前提交是否成功。那 GitLab CI 與 GitLab 的概念也一樣，它是另外獨立且可選的元件。打個比方， [Bitbucket][] 之於 [Circle CI][Day 25] ，就類似 GitLab 之於 GitLab CI 一樣。
 
 以下將使用 GitLab.com 服務當作範例。
 
