@@ -30,3 +30,4 @@
 * [Day 26 - 功能強大的 －－ GitLab CI](/docs/day26.md)
 * [Day 27 - 多樣服務整合 －－ Pipelines](/docs/day27.md)
 * [Day 28 - Legacy Code 接 CI Server](/docs/day28.md)
+* [Day 29 - 有了 CI Server，然後呢？](/docs/day29.md)
