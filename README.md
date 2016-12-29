@@ -59,7 +59,7 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * [Day 27 - 多樣服務整合 －－ Pipelines](/docs/day27.md)
 * [Day 28 - Legacy Code 接 CI Server](/docs/day28.md)
 * [Day 29 - 有了 CI Server，然後呢？](/docs/day29.md)
-* 最後一天！！
+* [Day 30 - 三十天總結](/docs/day30.md)
 
 ## 誌謝
 
