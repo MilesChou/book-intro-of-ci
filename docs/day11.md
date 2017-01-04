@@ -113,11 +113,16 @@ class CartTest extends \Codeception\Test\Unit
 * 服務使用虛擬化如 Vagrant / Docker ，除了成本小，大部分也都具備獨立的特性。
 * 企業內部專門測試用的主機，通常也是 Fake 。（試想，正式環境使用的規格跟測試環境有一樣嗎？）
 
-今天暫時不展示 Fake 的實際範例，只要知道通常是實作服務類即可。
+今天暫時不展示 Fake 的實際範例，只要知道通常是實作服務類即可。這類的實作可以參考後面幾天的文章：
+
+* [Day 14 - Vagrant][Day 14]
+* [Day 15 - Docker][Day 15]
 
 ## 耦合業障重
 
 如果細心的朋友會發現，這兩天到目前為止，都尚未提到「耦合」的話題。但我想大家應該也注意到了，如果當測試的時候要考慮依賴問題，代表測試目標與被依賴的物件有耦合；有耦合就必須考慮互動方法與資料規格等問題，而這些都是 Test Double 能解決的。
+
+---
 
 跟大家分享一個親身的體驗：
 
@@ -142,7 +147,9 @@ Anyway ，寫整合測試或使用 Test Double 都可以提早發現耦合過多
 * [Test Double（1）：什麼是測試替身？][] | 搞笑談軟工
 
 [Test Double（1）：什麼是測試替身？]: http://teddy-chen-tw.blogspot.tw/2014/09/test-double1.html
+[Sample Code]: https://github.com/MilesChou/book-intro-of-ci/tree/ebea3dab7bd260fa601b94b533ca08bd0496a536
 
 [Day 9]: /docs/day09.md
 [Day 10]: /docs/day10.md
-[Sample Code]: https://github.com/MilesChou/book-intro-of-ci/tree/ebea3dab7bd260fa601b94b533ca08bd0496a536
+[Day 14]: /docs/day14.md
+[Day 15]: /docs/day15.md
