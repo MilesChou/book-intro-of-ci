@@ -64,6 +64,12 @@ Agile 有些方法也是確保交付的產品是正確的，如：
 
 ## 相關連結
 
+* [MVP][] | 維基百科
+* [TDD][] | 維基百科
+* [BDD][] | 維基百科
+* [ATDD][] | 維基百科
+* [DoD][] | Scrum Alliance
+
 [TDD]: https://en.wikipedia.org/wiki/Test-driven_development
 [BDD]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [ATDD]: https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development
