@@ -20,6 +20,7 @@ CI server 主要的目的是隨時待命，只要程式碼有新的提交，它�
 * [Bamboo](https://www.atlassian.com/software/bamboo) | Atlassian 家出的 CI
 * [Scrutinizer](https://scrutinizer-ci.com/) | 需要付錢，功能很多，有語言限制
 * [PHPCI](https://www.phptesting.org/)
+* [Strider CD](http://strider-cd.github.io/)
 
 未來幾天會講的實作與比較如下：
 
