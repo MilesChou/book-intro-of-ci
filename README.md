@@ -4,11 +4,11 @@ DevOps 說：開發、測試與維運應該互相合作，解決問題並完成�
 
 這 30 天裡，我將會以開發者角度，並以第一人稱來說明 CI 是個什麼樣的概念，以及它幫助了我什麼，又幫助團隊什麼。
 
-> 此為第 8 屆 iT 邦幫忙鐵人賽 [DevOps 組][DevOps Team]參選作品之一。
-
 * [CI 從入門到入坑](http://ithelp.ithome.com.tw/users/20102562/ironman/987)
 * [GitBook](https://www.gitbook.com/book/mileschou/intro-of-ci/details)
 * [GitHub](https://github.com/MilesChou/book-intro-of-ci) 
+
+> 此為第 8 屆 iT 邦幫忙鐵人賽 DevOps 組參選作品之一；同時也獲得鐵人鍊成和[優選](https://ithelp.ithome.com.tw/ironman/winner-list)之成就。
 
 如對文章有任何建議，歡迎隨時提 issue 或直接發 PR 。修改的規範可以參考 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。
 
@@ -67,5 +67,4 @@ CI 是一個觀念或文化，大部分的人講 CI 都是在說 CI server ，�
 * 一起鐵腿的同伴 @chusiang ，作品：[現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://github.com/chusiang/automate-with-ansible)
 * 抽空看文章並提供意見的 @theqwan-chengwei
 
-[DevOps Team]: http://ithelp.ithome.com.tw/ironman/devops
 [Waterfall]: https://en.wikipedia.org/wiki/Waterfall_model
