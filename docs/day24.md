@@ -120,7 +120,7 @@ php:
 
 ## 今日回顧
 
-除了上面基本的測試功能外， Travis CI 還有提供測試完之後的後續處理，如[佈署](https://docs.travis-ci.com/user/deployment/)、 [Artifacts 處理](https://docs.travis-ci.com/user/uploading-artifacts/)、[通知](https://docs.travis-ci.com/user/notifications)，等。
+除了上面基本的測試功能外， Travis CI 還有提供測試完之後的後續處理，如[部署](https://docs.travis-ci.com/user/deployment/)、 [Artifacts 處理](https://docs.travis-ci.com/user/uploading-artifacts/)、[通知](https://docs.travis-ci.com/user/notifications)，等。
 
 最後， Travis CI 的功能非常簡單，但也因為簡單，要把它安插進 [Pipeline][Day 21] 裡是非常容易的。別看了，一起來 CI 吧！
 
