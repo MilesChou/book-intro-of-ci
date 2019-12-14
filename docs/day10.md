@@ -228,6 +228,8 @@ class SquareTest extends \Codeception\Test\Unit
 
 今天講了五種類型的兩種，範例程式可以在 [GitHub][Sample Code] 找到，明天會再講其他三種 Test Double 。
 
+下一篇：[假的！耦合業障重呀！（ 2/2 ）][]
+
 ## 相關連結
 
 * [Test Double（1）：什麼是測試替身？][] | 搞笑談軟工
@@ -241,3 +243,4 @@ class SquareTest extends \Codeception\Test\Unit
 [Day 5]: /docs/day05.md
 [Day 9]: /docs/day09.md
 [Sample Code]: https://github.com/MilesChou/book-intro-of-ci/tree/82245f693cea79619f708ed035115aeb54330807
+[假的！耦合業障重呀！（ 2/2 ）]: /docs/day11.md

@@ -38,6 +38,8 @@
 
 開發人員提交了一包原始碼後，每過了一個階段，這包原始碼感覺就越沒問題。到了最後一步準備要 Deploy 前，相信大家都對這包發佈用的檔案是極有信心的，而不會再是「上線即祈禱」了。
 
+下一篇：[CI 工具大亂鬥][]
+
 ## 相關連結
 
 * [Pipeline][] | 維基百科
@@ -45,3 +47,4 @@
 [Pipeline]: https://en.wikipedia.org/wiki/Pipeline_transport
 
 [Day 20]: /docs/day20.md
+[CI 工具大亂鬥]: /docs/day22.md

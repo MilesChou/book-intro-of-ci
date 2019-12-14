@@ -93,6 +93,8 @@ branches:
 
 不過還是可以繼續觀望，因為 Pipelines 設計上還有很多沒利用的空間，很有可能未來會再釋出更多功能，我們就繼續期待吧！
 
+下一篇：[為 Legacy Code 接 CI Server][]
+
 [Atlassian]: https://www.atlassian.com/
 [Bitbucket]: https://bitbucket.org/
 [HipChat]: https://www.hipchat.com/
@@ -105,3 +107,4 @@ branches:
 [day27 step2-1]: /images/day27-pipelines-step-2-1.png
 [day27 step2-2]: /images/day27-pipelines-step-2-2.png
 [day27 step2-3]: /images/day27-pipelines-step-2-3.png
+[為 Legacy Code 接 CI Server]: /docs/day28.md

@@ -271,6 +271,8 @@ deploy_job:
 
 如果公司內部有在用 GitLab 而不能用外部服務的話，趕快看一下版本是不是 8.0 吧！幸運的話，馬上就可以開始 CI 囉！
 
+下一篇：[多樣服務整合 －－ Pipelines][]
+
 [Bitbucket]: https://bitbucket.org/
 [GitLab]: https://gitlab.com/
 [GitLab CI]: https://about.gitlab.com/gitlab-ci/
@@ -286,3 +288,4 @@ deploy_job:
 [day26 step1-6]: /images/day26-gitlab-step-1-6.png
 [day26 step1-7]: /images/day26-gitlab-step-1-7.png
 [day26 step2-1]: /images/day26-gitlab-step-2-1.png
+[多樣服務整合 －－ Pipelines]: /docs/day27.md

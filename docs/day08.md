@@ -251,6 +251,8 @@ Codeception 可以整合的功能很多，不過今天就先把單元測試寫�
 * 基本單元測試
 * 一鍵執行所有測試
 
+下一篇：[爭什麼！摻在一起做整合測試啊！][]
+
 ## 相關連結
 
 [Codeception]: http://codeception.com/
@@ -263,3 +265,4 @@ Codeception 可以整合的功能很多，不過今天就先把單元測試寫�
 [First Run]: /images/day08-codeception-first-run.png
 [Second Run]: /images/day08-codeception-second-run.png
 [Final Run]: /images/day08-codeception-final-run.png
+[爭什麼！摻在一起做整合測試啊！]: /docs/day09.md

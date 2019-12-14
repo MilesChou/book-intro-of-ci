@@ -83,9 +83,12 @@ class SumTest extends \Codeception\Test\Unit
 
 因此，整合測試是需要測的。下次如果 API 串接遇到整合問題在爭論誰對誰錯時，相信大家就可以很有自信地跳出來說：**爭什麼！摻在一起做整合測試啊！**
 
+下一篇：[假的！耦合業障重呀！（ 1/2 ）][]
+
 ## 相關連結
 
 * [Integration Testing][] | 維基百科
 
 [Integration Testing]: https://en.wikipedia.org/wiki/Integration_testing
 [Class Run]: /images/day09-codeception-class-run.png
+[假的！耦合業障重呀！（ 1/2 ）]: /docs/day10.md

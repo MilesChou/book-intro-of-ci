@@ -43,6 +43,8 @@ Inspection 有非常多種檢查項目，大部分的做法是分析原始碼，
 
 動態測試與靜態測試是相輔相成的。比方說，當靜態測試發現某段程式複雜度高，又很多程式依賴，那表示這段程式被改壞的機率很高。我們可以先為該程式寫動態測試，再開始修改。
 
+下一篇：[Build Script][]
+
 ## 相關連結
 
 * [PHP_CodeSniffer][] | GitHub
@@ -52,3 +54,4 @@ Inspection 有非常多種檢查項目，大部分的做法是分析原始碼，
 [PHP_CodeSniffer]: https://github.com/squizlabs/PHP_CodeSniffer
 [PMD]: https://pmd.github.io/
 [PHP Depend]: https://pdepend.org/
+[Build Script]: /docs/day20.md
