@@ -189,6 +189,8 @@ test:
 
 [Bitbucket] + [Circle CI] 因為都支援私有專案，而且串接服務也非常容易。使用它們可以立即建立企業用的小型 CI 專案，即使是 Legacy Code ，也是能從 build 開始，一步一步搭建起簡單的 CI 哦！
 
+下一篇：[功能強大的 －－ GitLab CI][]
+
 ## 相關連結
 
 * [Bitbucket][]
@@ -212,3 +214,4 @@ test:
 [day25 step3]: /images/day25-circle-step-3.png
 [day25 step4]: /images/day25-circle-step-4.png
 [day25 artifacts]: /images/day25-circle-artifacts.png
+[功能強大的 －－ GitLab CI]: /docs/day26.md

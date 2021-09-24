@@ -237,6 +237,8 @@ service mysql restart
 
 有了自動化建置的工具，開發者就不需要再害怕把伺服器搞壞了，甚至是可以做一些進階的測試。不管怎麼看，對開發人員或維運人員都是有益無害的。
 
+下一篇：[管理貨櫃的碼頭工人－－ Docker （ 1/3 ）][]
+
 ## 相關連結
 
 * [04. 怎麼用 Vagrant 練習 Ansible？](http://ithelp.ithome.com.tw/articles/10185003) | 現代 IT 人一定要知道的 Ansible 自動化組態技巧系列 第 4 天
@@ -248,3 +250,4 @@ service mysql restart
 [Docker]: https://www.docker.com/
 
 [Day 13]: /docs/day13.md
+[管理貨櫃的碼頭工人－－ Docker （ 1/3 ）]: /docs/day15.md

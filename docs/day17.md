@@ -116,9 +116,12 @@ Docker Compose 其他常用的指令如下：
 
 Docker Compose 主要是方便處理容器的管理，但本質上依然是執行 Docker ，因此許多設定的概念跟 Docker 是一致的，如果使用上有問題，不妨參考 Docker 原生指令的說明，或許找得到解答。
 
+下一篇：[流浪漢與碼頭工人的應用][]
+
 ## 相關連結
 
 [Docker Compose]: https://docs.docker.com/compose/
 [Docker Compose Release]: https://github.com/docker/compose/releases
 
 [Day 15]: /docs/day15.md
+[流浪漢與碼頭工人的應用]: /docs/day18.md

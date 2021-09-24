@@ -96,6 +96,8 @@ test:
 
 雖然 legacy code 串接 CI Server 通常沒辦法做很完整的檢查，但再小的檢查都是檢查，只要 CI Server 能幫助團隊發現任何小問題，都會是有價值的。
 
+下一篇：[有了 CI Server，然後呢？][]
+
 [Bitbucket]: https://bitbucket.org/
 [GitHub]: https://github.com/
 [GitLab]: https://gitlab.com/
@@ -106,3 +108,4 @@ test:
 [Day 25]: /docs/day25.md
 [Day 26]: /docs/day26.md
 [Day 27]: /docs/day27.md
+[有了 CI Server，然後呢？]: /docs/day29.md

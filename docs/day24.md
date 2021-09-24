@@ -124,6 +124,8 @@ php:
 
 最後， Travis CI 的功能非常簡單，但也因為簡單，要把它安插進 [Pipeline][Day 21] 裡是非常容易的。別看了，一起來 CI 吧！
 
+下一篇：[不公開專案的好選擇 －－ Circle CI][]
+
 [travis-ci.org]: https://travis-ci.org/
 [travis-ci.com]: https://travis-ci.com/
 [GitHub]: https://github.com/
@@ -133,3 +135,4 @@ php:
 [day24 step2]: /images/day24-travis-step-2.png
 [day24 step3]: /images/day24-travis-step-3.png
 [day24 extra]: /images/day24-travis-extra.png
+[不公開專案的好選擇 －－ Circle CI]: /docs/day25.md

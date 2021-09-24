@@ -29,6 +29,7 @@
 ## 今日回顧
 
 今天提了一點做法，但這些都是死的。最終團隊想怎麼跑，只要大方向正確，就不會有太多沒問題！
+下一篇：[Pipeline][]
 
 ## 相關連結
 
@@ -38,3 +39,4 @@
 [Day 7]: /docs/day07.md
 [Day 13]: /docs/day13.md
 [Day 19]: /docs/day19.md
+[Pipeline]: /docs/day21.md

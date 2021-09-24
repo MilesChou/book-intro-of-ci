@@ -142,6 +142,8 @@ class CartTest extends \Codeception\Test\Unit
 
 Anyway ，寫整合測試或使用 Test Double 都可以提早發現耦合過多的問題，這對 CI 要求的「即早發現，即早治療」都是有幫助的。
 
+下一篇：[測試範圍][]
+
 ## 相關連結
 
 * [Test Double（1）：什麼是測試替身？][] | 搞笑談軟工
@@ -153,3 +155,4 @@ Anyway ，寫整合測試或使用 Test Double 都可以提早發現耦合過多
 [Day 10]: /docs/day10.md
 [Day 14]: /docs/day14.md
 [Day 15]: /docs/day15.md
+[測試範圍]: /docs/day12.md

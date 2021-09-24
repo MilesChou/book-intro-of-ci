@@ -297,6 +297,8 @@ $ docker cp <container>:/source/dist ./
 
 在一開始開發寫 Dapper 和自動化腳本都會需要多花點時間，但套一句葉大的話，不用 Dapper 前，這些其實還是都做一做比較好。在完成之後，就不大需要擔心環境的變動，或與其他開發者同步環境的問題了。
 
+下一篇：[開源專案的好選擇 －－ Travis CI][]
+
 ## 相關連結
 
 * [Gulp][]
@@ -305,3 +307,4 @@ $ docker cp <container>:/source/dist ./
 [Docker]: https://www.docker.com/
 [Rancher Labs]: http://rancher.com/
 [Gulp]: http://gulpjs.com/
+[開源專案的好選擇 －－ Travis CI]: /docs/day24.md
